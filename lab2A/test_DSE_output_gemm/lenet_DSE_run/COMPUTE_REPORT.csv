@@ -1,0 +1,4 @@
+LayerID, Total Cycles, Stall Cycles, Overall Util %, Mapping Efficiency %, Compute Util %,
+0, 5119, 0, 50.009767532721234, 100.0, 50.0,
+1, 19199, 0, 50.00260430230741, 100.0, 50.0,
+2, 2399, 0, 50.02084201750729, 100.0, 50.0,
